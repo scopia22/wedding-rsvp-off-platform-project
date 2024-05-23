@@ -24,6 +24,7 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
-| Maxibon           | 5 	    |
+| Maxibon           | 5 	        |
 | June Richards     | 3             | 
-| Bismarck	    | 4             |	
+| Bismarck Bright   | 4             |	
+| Thomas Bright     | 2             |
