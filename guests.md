@@ -26,4 +26,5 @@
 | Julian            | 3             |
 | Maxibon           | 5 	    |
 | June Richards     | 3             | 
-| Bismarck	    | 4             |	
+| Bismarck Bright   | 4             |	
+| Thomas Bright     | 2             |
